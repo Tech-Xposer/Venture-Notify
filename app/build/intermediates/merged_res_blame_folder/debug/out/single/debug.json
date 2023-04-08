@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.devash.venturenotify.app-debug-39:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/drawable-v24_loginbkg.png.flat",
+        "source": "com.devash.venturenotify.app-main-40:/drawable-v24/loginbkg.png"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/drawable_ic_baseline_more_vert_24.xml.flat",
+        "source": "com.devash.venturenotify.app-main-40:/drawable/ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/font_poppins_semibold.ttf.flat",
+        "source": "com.devash.venturenotify.app-main-40:/font/poppins_semibold.ttf"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.devash.venturenotify.app-debug-39:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/drawable_white_cueve_bg.png.flat",
+        "source": "com.devash.venturenotify.app-main-40:/drawable/white_cueve_bg.png"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/xml_data_extraction_rules.xml.flat",
+        "source": "com.devash.venturenotify.app-main-40:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/raw_data.json.flat",
+        "source": "com.devash.venturenotify.app-main-40:/raw/data.json"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.devash.venturenotify.app-pngs-33:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.devash.venturenotify.app-debug-39:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.devash.venturenotify.app-debug-39:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/drawable_ic_baseline_lock_24.xml.flat",
+        "source": "com.devash.venturenotify.app-main-40:/drawable/ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/drawable_fg.xml.flat",
+        "source": "com.devash.venturenotify.app-main-40:/drawable/fg.xml"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/drawable_unnamed.jpg.flat",
+        "source": "com.devash.venturenotify.app-main-40:/drawable/unnamed.jpg"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.devash.venturenotify.app-debug-39:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/drawable_backgnd.jpg.flat",
+        "source": "com.devash.venturenotify.app-main-40:/drawable/backgnd.jpg"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/drawable_ic_baseline_post_add_24.xml.flat",
+        "source": "com.devash.venturenotify.app-main-40:/drawable/ic_baseline_post_add_24.xml"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.devash.venturenotify.app-debug-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/layout_activity_viewscheme.xml.flat",
+        "source": "com.devash.venturenotify.app-main-40:/layout/activity_viewscheme.xml"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/layout_activity_register.xml.flat",
+        "source": "com.devash.venturenotify.app-main-40:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/drawable_grey_cursor_color.xml.flat",
+        "source": "com.devash.venturenotify.app-main-40:/drawable/grey_cursor_color.xml"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/drawable_ic_baseline_person_24.xml.flat",
+        "source": "com.devash.venturenotify.app-main-40:/drawable/ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/layout_activity_editscheme.xml.flat",
+        "source": "com.devash.venturenotify.app-main-40:/layout/activity_editscheme.xml"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.devash.venturenotify.app-debug-39:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/drawable_loginbg.xml.flat",
+        "source": "com.devash.venturenotify.app-main-40:/drawable/loginbg.xml"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/drawable_ic_baseline_edit_note_24.xml.flat",
+        "source": "com.devash.venturenotify.app-main-40:/drawable/ic_baseline_edit_note_24.xml"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/drawable_ic_baseline_delete_forever_24.xml.flat",
+        "source": "com.devash.venturenotify.app-main-40:/drawable/ic_baseline_delete_forever_24.xml"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/layout_layout_schemes.xml.flat",
+        "source": "com.devash.venturenotify.app-main-40:/layout/layout_schemes.xml"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.devash.venturenotify.app-debug-39:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/layout_activity_create_scheme.xml.flat",
+        "source": "com.devash.venturenotify.app-main-40:/layout/activity_create_scheme.xml"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/font_poppins_regular.ttf.flat",
+        "source": "com.devash.venturenotify.app-main-40:/font/poppins_regular.ttf"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.devash.venturenotify.app-debug-39:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/drawable_ic_baseline_save_alt_24.xml.flat",
+        "source": "com.devash.venturenotify.app-main-40:/drawable/ic_baseline_save_alt_24.xml"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.devash.venturenotify.app-debug-39:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/drawable_background.png.flat",
+        "source": "com.devash.venturenotify.app-main-40:/drawable/background.png"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/drawable_post.png.flat",
+        "source": "com.devash.venturenotify.app-main-40:/drawable/post.png"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.devash.venturenotify.app-debug-39:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.devash.venturenotify.app-debug-39:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/layout_activity_admin_board.xml.flat",
+        "source": "com.devash.venturenotify.app-main-40:/layout/activity_admin_board.xml"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.devash.venturenotify.app-debug-39:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/layout_activity_forgotpswd.xml.flat",
+        "source": "com.devash.venturenotify.app-main-40:/layout/activity_forgotpswd.xml"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/layout_activity_splash.xml.flat",
+        "source": "com.devash.venturenotify.app-main-40:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/drawable_preview16.jpg.flat",
+        "source": "com.devash.venturenotify.app-main-40:/drawable/preview16.jpg"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/drawable_notificon.png.flat",
+        "source": "com.devash.venturenotify.app-main-40:/drawable/notificon.png"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.devash.venturenotify.app-debug-39:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.devash.venturenotify.app-debug-39:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.devash.venturenotify.app-debug-39:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/drawable_icon.xml.flat",
+        "source": "com.devash.venturenotify.app-main-40:/drawable/icon.xml"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.devash.venturenotify.app-main-40:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/drawable_notify.png.flat",
+        "source": "com.devash.venturenotify.app-main-40:/drawable/notify.png"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/drawable-v24_ic_launcher_background.xml.flat",
+        "source": "com.devash.venturenotify.app-main-40:/drawable-v24/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/drawable_bgapp.png.flat",
+        "source": "com.devash.venturenotify.app-main-40:/drawable/bgapp.png"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/layout_activity_login.xml.flat",
+        "source": "com.devash.venturenotify.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/drawable-v24_twitter.png.flat",
+        "source": "com.devash.venturenotify.app-main-40:/drawable-v24/twitter.png"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/xml_backup_rules.xml.flat",
+        "source": "com.devash.venturenotify.app-main-40:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.devash.venturenotify.app-debug-39:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.devash.venturenotify.app-merged_res-38:/layout_activity_dash_board.xml.flat",
+        "source": "com.devash.venturenotify.app-main-40:/layout/activity_dash_board.xml"
+    }
+]

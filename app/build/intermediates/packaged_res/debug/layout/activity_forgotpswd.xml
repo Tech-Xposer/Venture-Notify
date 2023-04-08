@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Forgotpswd"
+    android:layout_centerHorizontal="true">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Change Password"
+        android:textStyle="bold"
+        android:fontFamily="@font/poppins_semibold"
+        android:textColor="@color/black"
+        android:layout_marginTop="50dp"
+        android:textSize="24sp"
+        android:textAlignment="center"
+        android:id="@+id/tw"/>
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/opswd"
+            android:layout_margin="20dp"
+            android:hint="Enter Old Password"
+            android:inputType="textPassword"
+            />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/pswd"
+            android:layout_below="@+id/opswd"
+            android:layout_margin="20dp"
+            android:inputType="textPassword"
+
+            android:hint="Enter New Password"
+            />
+        <EditText
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cpswd"
+            android:layout_margin="20dp"
+            android:hint="Confirm Password"
+            android:inputType="textPassword"
+            android:layout_below="@+id/pswd"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Change"
+            android:layout_below="@+id/cpswd"
+            android:id="@+id/submit"
+            android:background="@drawable/fg"
+            android:padding="20dp"
+            android:layout_centerHorizontal="true"/>
+    </RelativeLayout>
+</RelativeLayout>

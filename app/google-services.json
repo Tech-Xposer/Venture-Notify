@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588604714734",
+    "project_id": "venture-notify73",
+    "storage_bucket": "venture-notify73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588604714734:android:e8dc3b90f1e6c428ce8dff",
+        "android_client_info": {
+          "package_name": "com.devash.venturenotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588604714734-p859nqgjarhfesu8nhuumat5on575cqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5vLMJchc1pSatNPBwGQ8Uunh059x7VqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588604714734-p859nqgjarhfesu8nhuumat5on575cqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

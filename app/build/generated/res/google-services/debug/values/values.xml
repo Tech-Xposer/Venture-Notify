@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">588604714734-p859nqgjarhfesu8nhuumat5on575cqh.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">588604714734</string>
+    <string name="google_api_key" translatable="false">AIzaSyC5vLMJchc1pSatNPBwGQ8Uunh059x7VqM</string>
+    <string name="google_app_id" translatable="false">1:588604714734:android:e8dc3b90f1e6c428ce8dff</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC5vLMJchc1pSatNPBwGQ8Uunh059x7VqM</string>
+    <string name="google_storage_bucket" translatable="false">venture-notify73.appspot.com</string>
+    <string name="project_id" translatable="false">venture-notify73</string>
+</resources>
